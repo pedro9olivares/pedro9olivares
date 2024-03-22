@@ -3,7 +3,7 @@
 ### <Code, Math & Cybersec />
 Im a software developer, math enthusiast, cybersecurity intern and obsessed learner.
 
-Currently living in the [5th largest city](https://en.wikipedia.org/wiki/Mexico_City) and studying Computer Engineering and Applied Maths at [ITAM](https://www.itam.mx/) (the mexican MIT?) I love learning about technologies and interesting concepts.
+Currently living in the [5th largest city](https://en.wikipedia.org/wiki/Mexico_City) and studying Computer Engineering and Applied Maths at [ITAM](https://www.itam.mx/) (the mexican MIT?) I love learning about technologies and new concepts. You may find some of the projects hosted here interesting!
 
 📧 Reach out to me at pedro9olivares@gmail.com
 

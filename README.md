@@ -14,6 +14,7 @@ Currently living in the [5th largest city](https://en.wikipedia.org/wiki/Mexico_
 - Distributed systems
   
 ## Experience 
+![my exp points](https://github.com/pedro9olivares/pedro9olivares/blob/main/imgs/Exp.png?raw=true)
 
 ### See you soon!
 "... de aquellos campos no quedaba ni una flor" - Carlos Fuentes

@@ -7,6 +7,7 @@ Currently living in the [5th largest city in the world](https://en.wikipedia.org
 📧 Reach out to me at pedro9olivares@gmail.com
 
 ## Interests
+- Knot Theory
 - Software Engineering
 - Differential Geometry + Machine Learning ([check this out](https://metacademy.org/roadmaps/rgrosse/dgml))
 - Distributed systems

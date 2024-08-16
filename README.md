@@ -2,7 +2,7 @@
 # Hi! I'm Pedro 👋
 Im a software developer, math enthusiast, cybersecurity intern and chronic learner.
 
-Currently living in the [5th largest city in the world](https://en.wikipedia.org/wiki/Mexico_City) and studying Computer Engineering and Applied Maths at [ITAM](https://www.itam.mx/). I love learning about technologies and new concepts. You may find some of the projects hosted here interesting!
+Currently living in the [5th largest city in the world](https://en.wikipedia.org/wiki/Mexico_City) and studying Applied Maths and Computer Engineering at [ITAM](https://www.itam.mx/). I love learning about technologies and new concepts. You may find some of the projects hosted here interesting!
 
 📧 Reach out to me at pedro9olivares@gmail.com
 

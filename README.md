@@ -9,7 +9,7 @@ Currently living in the [5th largest city in the world](https://en.wikipedia.org
 - Software Engineering
 - Differential Geometry + Machine Learning ([check this out](https://metacademy.org/roadmaps/rgrosse/dgml))
 - Distributed systems
-- Pentesting
+- Ethical Hacking
   
 ## Experience 
 ![my exp](https://github.com/pedro9olivares/pedro9olivares/blob/main/imgs/Exp_fr_this_time.png)
